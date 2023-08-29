@@ -2,7 +2,7 @@
 .content-n{
 background-color: rgb(204, 204, 204);
 }
-.content-5{
+.player_one {
 	background-color: rgb(255, 255, 255); 
 	padding: 2px; 
 	align:center;
@@ -10,16 +10,24 @@ background-color: rgb(204, 204, 204);
 	border:2px solid black;
 	width:540px
 }
+.player_two{
+	background-color: rgb(255, 255, 255); 
+	padding:0px; 
+	align:center;
+	border-radius:0px;
+	widht:540px;
+	border:2px solid black;
+}
 .content{
 	text-align: center;
 	
 }
 .content-2{
-	
+	text-decoration-line: none;
 	list-style-type: none;
 	border:1px solid black;
 	background-color:white;
-	height:30vh;
+	height:20vh;
 }
 .content-3{
 	text-align:center;
